@@ -1,6 +1,6 @@
 # Git Branching Experiments
 
-In this repo we are learning about Git Branching and merging.
+In this repo we will be learning about Git Branching and merging.
 
 Here are the programs:
 
